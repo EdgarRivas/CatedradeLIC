@@ -1,0 +1,421 @@
+1-Samsung Galaxy S4
+
+Red: GSM 850 / 900 / 1800 / 1900 - HSDPA 850 / 900 / 1900 / 2100 - LTE 800 / 1800 / 2600
+Dimensiones: 136.6 x 69.8 x 7.9 mm
+Peso: 130 g
+Tipo: Super AMOLED touchscreen capacitivo, 16M colores
+Tamaño: 1080 x 1920 pixels, 4.99 pulgadas
+Soporte multitouch
+Pantalla Gorilla Glass 3
+Interfaz de usuario TouchWiz
+Sensor acelerómetro para auto rotación
+Controles sensibles al tacto
+Sensor de proximidad para auto apagado
+Sensor giroscópico
+Barómetro
+Sensor de temperatura y humedad
+Sensor Geomagnético
+Slot de tarjeta: microSD hasta 64GB
+16GB/32GB/64GB memoria interna, 2GB RAM
+Procesador Exynos 5 Octa octa-core 1.6 GHz / Qualcomm Snapdragon 600 1.9GHz (según región), GPU PowerVR SGX 544MP / Adreno 320
+OS: Android OS, v4.2.2 Jelly Bean
+Mensajería: SMS, MMS, Email, Push Mail, IM, RSS
+Navegador: HTML5
+Cámara: 13 MP, 4128 x 3096 pixels, autofocus, flash LED, geo-tagging, detección de rostro y sonrisa, foco táctil, estabilizador de imagen, HDR, captura simultánea, video 1080p@30fps, cámara frontal 2.0MP 1080p@30fps
+GPS con soporte A-GPS; GLONASS
+Brújula digital
+S Voice
+Smart Stay (seguimiento de ojos)
+EDGE
+3G HSDPA 42.2Mbps / HSUPA 5.76Mbps
+4G LTE
+Wi-Fi 802.11 a/b/g/n/ac; DLNA; Wi-Fi Direct; banda dual
+Bluetooth v4.0 A2DP, EDR, LE
+microUSB 2.0
+Integración con redes sociales
+NFC 
+Salida TV via MHL
+Cancelación activa de ruido con micrófono dedicado
+Reproductor de video MP4/DivX/XviD/WMV/H.264/H.263 
+Reproductor de audio MP3/WAV/eAAC+/AC3/FLAC 
+Organizador
+Editor de imagen/video
+Editor de documentos (Word, Excel, PowerPoint, PDF)
+Integración Google Search, Maps, Gmail, YouTube, Calendar, Google Talk, Picasa
+Memo/comandos/discado de voz
+Manoslibres incorporado
+Ingreso predictivo de texto
+Batería: Standard, Li-Ion 2600 mAh
+
+
+2-iPhone 5
+
+Red: GSM 850 / 900 / 1800 / 1900 - CDMA 800 / 1900 - HSDPA 850 / 900 / 1900 / 2100 - CDMA2000 1xEV-DO - LTE 700 / 2100
+Dimensiones: 123.8 x 58.5 x 7.6 mm
+Peso: 112 g
+Tipo: TFT IPS con luz LED de fondo, touchscreen capacitivo, 16M colores
+Tamaño: 640 x 1136 pixels, 4.0 pulgadas
+Superficie oleofóbica resistente a rayones
+Ingreso de datos multi touch
+Sensor acelerómetro para auto rotación
+Sensor giróscopico de 3 ejes
+Sensor de proximidad para auto apagado
+16/32/64GB memoria interna, 1GB RAM
+Procesador Apple A6
+OS: iOS 6
+Mensajería: SMS, MMS, Email, Push Email, IM, iMessage
+Navegador: HTML (Safari)
+Cámara: 8 MP, 3264x2448 pixels, autofocus, flash LED, geo-tagging, foco táctil, reconocimiento de rostro, panorama, video 1080p@30fps, luz de video, estabilizador de imagen, cámara frontal 1.3 MP 720p
+GPS con soporte A-GPS, GLONASS
+Soporte nanoSIM
+Cancelación activa de sonido con micrófonos dedicados
+Brújula digital
+EDGE
+3G DC-HSDPA 42 Mbps / HSDPA 21 Mbps/ HSUPA 5.76 Mbps
+4G LTE 100 Mbps
+Wi-Fi 802.11 a/b/g/n; banda dual
+Bluetooth v4.0 A2DP
+USB 2.0
+iMaps 
+Manoslibres incorporado
+Reproductor y editor de audio y video
+Comandos/memo/discado por voz
+Asistente personal Siri
+Almacenamiento iCloud
+Salida TV
+Editor de fotos
+Integración con redes sociales
+Ingreso predictivo de texto
+
+
+3-Alcatel One Touch Idol Ultra
+
+Red: GSM 850 / 900 / 1800 / 1900 - HSDPA 900 / 2100
+Dimensiones: 134.4 x 68.5 x 6.45 mm
+Peso: 115 g
+Tipo: AMOLED touchscreen capacitivo, 16M colores
+Tamaño: 720 x 1280 pixels, 4.65 pulgadas
+Sensor acelerómetro para auto rotación
+Controles sensibles al tacto
+Soporte Multitouch
+Superficie resistente a daños
+Sensor de proximidad para auto apagado
+16GB memoria interna (13.3GB disponibles al usuario), 1GB RAM
+Procesador MediaTek 6577+ dual-core 1.2GHz
+OS: Android OS, v4.1 Jelly Bean
+Mensajería: SMS, MMS, Email, Push Email, IM
+Navegador: HTML5
+Cámara: 8 MP, 3264 x 2448 pixels, autofocus, flash LED, geo-tagging, foco táctil, video 720p@30fps, cámara frontal 1.3 MP 720p
+GPS con soporte A-GPS
+Brújula digital
+EDGE
+3G HSDPA 7.2 Mbps / HSUPA 5.76Mbps
+Wi-Fi 802.11 b/g/n; Wi-Fi Direct
+Bluetooth v4.0 A2DP
+microUSB 2.0
+Integración con redes sociales
+Integración Google Search, Maps, Gmail, YouTube, Google Talk, Picasa
+Reproductor de audio MP3/AAC+/WAV/WMA
+Reproductor de video MP4/H.264/H.263
+Radio FM Stereo con RDS
+Organizador
+Visor de documentos
+Memo/discado/comandos de voz
+Manoslibres incorporado
+Ingreso predictivo de texto
+Batería: Standard, Li-Ion 1820 mAh
+
+
+4 - Sony Xperia ZL
+
+Red: GSM 850 / 900 / 1800 / 1900 - HSDPA 850 / 900 / 1900 / 2100 - LTE 700 / 850 / 1800 / 1900 / 2100
+Dimensiones: 131.6 x 69.3 x 9.8 mm
+Peso: 151 g
+Tipo: TFT touchscreen capacitivo, 16M colores
+Tamaño: 1080 x 1920 pixels, 5.0 pulgadas
+Pantalla a prueba de daños
+Soporte multitouch
+Sensor acelerómetro para auto rotación
+Motor Sony Mobile BRAVIA 2
+Sensor de proximidad para auto apagado
+Sensor giroscópico
+Timescape UI
+Slot de tarjeta: microSD, hasta 64GB
+16GB memoria interna, 2GB RAM
+Procesador Qualcomm MSM8064 Snapdragon S4 Pro quad-core 1.5GHz, GPU Adreno 320
+OS: Android OS, v4.1.2 Jelly Bean
+Mensajería: SMS, MMS, Email, IM, Push Email
+Navegador: HTML5
+Cámara: 13 MP, 4128x3096 pixels, flash LED, geo-tagging, foco táctil, detección de rostro y sonrisa, fotos panorámicas 3D, estabilizador de imagen, HDR, sensor Exmor RS, video 1080p@30fps, autofoco contínuo, luz de video, cámara frontal 2 MP 720p@30fps
+Soporte microSIM
+GPS con soporte A-GPS; GLONASS
+Brújula digital
+EDGE 
+3G HSDPA / HSUPA 
+4G LTE
+Wi-Fi 802.11 a/b/g/n; DNLA; Wi-Fi Direct; banda dual
+Bluetooth v4.0 A2DP
+microUSB 2.0
+NFC
+Certificación PlayStation
+Control Remoto
+Cancelación activa de ruido con micrófono dedicado
+Reproductor de video MP4/H.263/H.264/WMV 
+Reproductor de audio MP3/eAAC+/WMA/WAV/Flac 
+Radio FM Stereo con RDS
+Integración con Google Search, Maps, Gmail, YouTube, Calendar, Google Talk
+Visor de documentos
+Memo/discado/comandos de voz
+Manoslibres incorporado
+Ingreso predictivo de texto
+Batería: Standard, Li-Ion 2370 mAh
+
+
+5 - BlackBerry 10
+
+Red: GSM 850 / 900 / 1800 / 1900 - HSDPA 800 / 850 / 900 / 1900 / 2100 - LTE 800 / 900 / 1800 / 2600 o LTE 700 / 850 / 1700 / 1900
+Dimensiones: 130 x 65.6 x 9 mm
+Peso: 135 g
+Tipo: LCD touchscreen capacitivo, 16M colores
+Tamaño: 768 x 1280 pixels, 4.2 pulgadas
+Soporte multitouch
+Sensor acelerómetro para auto rotación
+Sensor de proximidad para auto apagado
+Sensor giroscópico
+Slot de tarjeta: microSD hasta 32GB
+16GB memoria interna, 2GB RAM
+Procesador Qualcomm MSM8960 Snapdragon dual-core 1.5 GHz, GPU Adreno 225
+OS: BlackBerry 10 OS
+Mensajería: SMS, MMS, Email, IM, BBM
+Navegador: HTML5
+Cámara: 8 MP, 3264x2448 pixels, autofocus, flash LED, geo-tagging, detección de rostro y sonrisa, foco táctil, estabilizador de imagen, video 1080p@30fps, cámara frontal 2MP 720p@30fps
+GPS con soporte A-GPS
+Brújula digital
+EDGE 
+3G HSDPA 21Mbps / HSUPA 5.76Mbps
+4G LTE
+Wi-Fi 802.11 a/b/g/n; banda dual
+Bluetooth v4.0 A2DP
+microUSB 2.0
+Integración con redes sociales
+NFC 
+Puerto HDMI
+Mapas BlackBerry
+Reproductor de video DivX/XviD/MP4/WMV/H.263/H.264 
+Reproductor de audio MP3/WAV/eAAC+/AC3/FLAC 
+Organizador
+Editor de imagen/video
+Editor de documentos (Word, Excel, PowerPoint, PDF)
+Memo/comandos/discado de voz
+Manoslibres incorporado
+Java MIDP 2.1
+Ingreso predictivo de texto
+Batería: Standard, Li-Ion 1800 mAh
+
+
+6 - HTC Touch Diamond
+
+Red: GSM 900 / 1800 / 1900 / HSDPA 2100 / 900 para Europa/Asia
+ 	GSM 850 / 1800 / 1900 / HSDPA 850 / 1900 para América
+Dimensiones: 102 x 51 x 11.5 mm
+Peso: 110 g
+Tipo: TFT touchscreen, 65K colores
+Tamaño: 480 x 640 pixels, 2.8 pulgadas
+Navegación 3D por dedo TouchFLO
+Control de navegación sensible al tacto
+Reconocimiento escritura de mano
+4 GB de memoria de usuario
+192 MB DDR SDRAM, 256 MB ROM
+Procesador Qualcomm MSM7201A 528 Mhz
+OS: Microsoft Windows Mobile 6.1 Professional
+Mensajería: SMS, MMS, Email, Mensajería instantánea
+Browser: WAP 2.0/xHTML, HTML
+Cámara: 3.15 MP, 2048x1536 pixels, autofocus, video; cámara secundaria VGA videocall
+GPS integrado con A-GPS
+Radio FM Stereo con RDS
+Pocket Office(Word, Excel, Outlook, visor PDF)
+EDGE
+3G HSDPA
+Wi-Fi
+Bluetooth A2DP
+miniUSB
+Java MIDP 2.0
+Memo de voz
+Reproductor MP3
+Manoslibres incorporado
+Batería: Standard, Li-Ion 900 mAh
+
+
+7 - iphone 4s
+
+Red: GSM 850 / 900 / 1800 / 1900 - CDMA 800 / 1900 - HSDPA 850 / 900 / 1900 / 2100 - CDMA2000 1xEV-DO
+Dimensiones: 115.2 x 58.6 x 9.3 mm
+Peso: 140 g
+Tipo: TFT IPS con luz LED de fondo touchscreen capacitivo, 16M colores
+Tamaño: 640 x 960 pixels, 3.5 pulgadas
+Superficie oleofóbica resistente a rayones
+Ingreso de datos multi touch
+Sensor acelerómetro para auto rotación
+Sensor giróscopico de 3 ejes
+Sensor de proximidad para auto apagado
+16/32/64 GB memoria interna
+Procesador dual-core Apple A5 1GHz, GPU PowerVR SGX543MP2
+OS: iOS 5
+Mensajería: SMS, MMS, Email, Push Email, IM
+Navegador: HTML (Safari)
+Cámara: 8 MP, 3264x2448 pixels, autofocus, flash LED, geo-tagging, foco táctil, reconocimiento de rostro, video 1080p@30fps, luz de video, estabilizador de imagen, cámara frontal VGA
+GPS con soporte A-GPS
+Soporte tarjetas MicroSIM
+Panel posterior de vidrio resistente a rayones
+Cancelación activa de sonido con micrófono dedicado
+Brújula digital
+EDGE
+3G HSDPA 14.4 Mbps/ HSUPA 5.76Mbps
+Wi-Fi 802.11 b/g/n
+Bluetooth v4.0 A2DP
+USB 2.0
+Mapas Google 
+Manoslibres incorporado
+Reproductor y editor de audio y video
+Comandos/discado por voz
+Asistente personal Siri
+Almacenamiento iCloud
+Salida TV
+Editor de fotos
+Integración con Twitter
+Ingreso predictivo de texto
+Batería: Standard, Li-Po 1430mAh
+
+
+8 - lg optimus l7
+
+Red: GSM 850 / 900 / 1800 / 1900 - HSDPA 900 / 1900 / 2100
+Dimensiones: 125.5 x 67 x 8.7 mm
+Peso: 122 g
+Tipo: LCD IPS touchscreen capacitivo, 16M colores
+Tamaño: 480 x 800 pixels, 4.3 pulgadas
+Pantalla Gorilla Glass
+Soporte multitouch
+Sensor acelerómetro para auto rotación
+Controles sensibles al tacto
+Sensor de proximidad para auto apagado
+Slot de tarjeta: microSD hasta 32GB
+4GB memoria interna (2GB disponibles al usuario), 512MB RAM
+Procesador Qualcomm MSM7227A Snapdragon 1GHz, GPU Adreno 200
+OS: Android OS, v4.0.3 Ice Cream Sandwich
+Mensajería: SMS, MMS, Email, Push Mail, IM
+Navegador: HTML5
+Cámara: 5 MP, 2592 x 1944 pixels, autofocus, flash LED, foco táctil, geo-tagging, video VGA@30fps, cámara frontal
+GPS con soporte A-GPS
+Brújula digital
+EDGE clase 12
+3G HSDPA 21Mbps / HSUPA 5.76Mbps
+Wi-Fi 802.11 b/g/n; DLNA; Wi-Fi Direct
+Bluetooth v3.0 A2DP
+NFC
+microUSB 2.0
+Integración con redes sociales
+Cancelación activa de ruido con micrófono dedicado
+Reproductor de video DivX/Xvid/MP4/H.264/H.263/WMV
+Reproductor de audio MP3/WAV/eAAC+/WMA
+Radio FM Stereo
+Organizador
+Editor de imagen/video
+Editor de documentos (Word, Excel, PowerPoint, PDF)
+Integración Google Search, Maps, Gmail, YouTube, Calendar, Google Talk, Picasa
+Memo/comandos/discado de voz
+Manoslibres incorporado
+Ingreso predictivo de texto
+Batería: Standard, Li-Ion 1700 mAh
+
+
+9 - lg optimus l9
+
+Red: GSM 850 / 900 / 1800 / 1900 - HSDPA 850 / 900 / 1900 / 2100
+Dimensiones: 131.9 x 68.2 x 9.1 mm
+Peso: 125 g
+Tipo: LCD IPS touchscreen capacitivo, 16M colores
+Tamaño: 4.7 pulgadas
+Soporte multi-touch
+Sensor acelerómetro para auto rotación
+Controles sensibles al tacto
+Sensor de proximidad para auto apagado
+Slot de tarjeta: microSD hasta 32GB
+4GB memoria interna, 1GB RAM
+Procesador dual-core 1 GHz
+OS: Android OS, v4.0.4 Ice Cream Sandwich
+Mensajería: SMS, MMS, Email, Push Mail, IM, RSS
+Navegador: HTML5
+Cámara: 5 MP, 2592 x 1944 pixels, autofocus, flash LED, foco táctil, geo-tagging, video, cámara frontal VGA
+GPS con soporte A-GPS
+Brújula digital
+EDGE clase 12
+3G HSDPA 21Mbps / HSUPA 5.76Mbps
+Wi-Fi 802.11 b/g/n; DLNA; Wi-Fi Direct
+Bluetooth v4.0 A2DP
+microUSB 2.0
+Integración con redes sociales
+Cancelación activa de ruido con micrófono dedicado
+Reproductor de video DivX/Xvid/MP4/H.264/H.263/WMV
+Reproductor de audio MP3/WAV/WMA/eAAC+
+Organizador
+Editor de imagen/video
+Aplicacione QMemo, QTranslator
+Editor de documentos (Word, Excel, PowerPoint, PDF)
+Integración Google Search, Maps, Gmail, YouTube, Calendar, Google Talk, Picasa
+Memo/comandos/discado de voz
+Manoslibres incorporado
+Ingreso predictivo de texto
+Batería: Standard, Li-Ion 2150mAh
+
+
+10 - Samsung Galaxy S III
+
+Red: GSM 850 / 900 / 1800 / 1900 - HSDPA 850 / 900 / 1900 / 2100 - LTE (según región)
+Dimensiones: 136.6 x 70.6 x 8.6 mm
+Peso: 133 g
+Tipo: Super AMOLED touchscreen capacitivo, 16M colores
+Tamaño: 720 x 1280 pixels, 4.8 pulgadas
+Pantalla Gorilla Glass 2
+Interfaz de usuario TouchWiz 4.0
+Soporte multi-touch
+Sensor acelerómetro para auto rotación
+Barómetro
+Reconocimiento de actividad visual Smart Stay
+Controles sensibles al tacto
+Sensor de proximidad para auto apagado
+Sensor giroscópico
+Teclado Swype
+Slot de tarjeta: microSD hasta 64GB
+16GB/32GB/64GB memoria interna, 1GB RAM
+Procesador Exynos 4 Quad quad-core 1.4 GHz, GPU Mali 400MP
+OS: Android OS, v4.0.4 Ice Cream Sandwich
+Mensajería: SMS, MMS, Email, Push Mail, IM, RSS
+Navegador: HTML
+Cámara: 8 MP, 3264x2448 pixels, autofocus, flash LED, geo-tagging, detección de rostro y sonrisa, foco táctil, estabilizador de imagen, video 1080p@30fps, cámara frontal 1.9MP 720p@30fps
+Soporte MicroSIM
+GPS con soporte A-GPS
+Brújula digital
+EDGE Clase 12
+3G HSDPA 21Mbps / HSUPA 5.76Mbps
+4G HSPA+/LTE
+Wi-Fi 802.11 a/b/g/n; Wi-Fi Direct; DLNA; Wi-Fi Direct
+Bluetooth v4.0 A2DP, EDR
+microUSB 2.0
+Integración con redes sociales
+S Voice
+Soporte NFC 
+Salida TV
+Cancelación activa de ruido con micrófono dedicado
+Reproductor de video MP4/DivX/XviD/WMV/H.264/H.263 
+Reproductor de audio MP3/WAV/eAAC+/AC3/FLAC/OGG 
+Radio FM Stereo con RDS
+Organizador
+Editor de imagen/video
+Editor de documentos (Word, Excel, PowerPoint, PDF)
+Integración Google Search, Maps, Gmail, YouTube, Calendar, Google Talk, Picasa
+Memo/comandos/discado de voz
+Manoslibres incorporado
+Ingreso predictivo de texto
+Batería: Standard, Li-Ion 2100 mAh
+

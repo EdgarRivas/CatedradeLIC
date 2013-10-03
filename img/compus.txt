@@ -1,0 +1,127 @@
+1 Toshiba Satellite U945-S439
+
+•	Calificación: 4.5/5
+•	Precio: $630 - $700
+•	Procesador: Intel Core i5-3317U 2.6 GHz
+•	Sistema operativo: Windows 8
+•	Memoria RAM: 6GB DDR3
+•	Disco Duro: 500GB 5400 RPM
+•	Tarjeta gráfica: Mobile Intel HD integrated graphics
+
+2 HP Pavilion g7-2270us 
+•	Calificación: 4/5
+•	Precio: $498 - $550
+•	Procesador: Intel Core i3-3110M 2.4 GHz (3 MB Cache)
+•	Sistema operativo: Windows 8
+•	Memoria RAM: 6GB DDR3
+•	Disco Duro: 750GB 5400 RPM
+•	Tarjeta gráfica: Intel HD graphics 4000
+
+3Apple MacBook Pro
+
+•	Calificación: 4.5/5
+•	Precio: $1,129.98
+•	Procesador: 2.5 GHz Intel Core i5
+•	Sistema operativo: Mac OS X v 10.8 Mountain Lion
+•	Memoria RAM: 4GB DDR3
+•	Disco Duro: 500 GB
+•	Tarjeta gráfica: Intel HD graphics 4000
+
+
+4Alienware M17x
+
+•	Calificación: 4.5/5
+•	Precio: $1,649.99
+•	Procesador: 3rd Generation Intel Core i7
+•	Sistema operativo: Windows 8
+•	Memoria RAM: 8GB DDR3
+•	Disco Duro: 750 GB
+•	Tarjeta gráfica: 2GB GDDR5 NVIDIA GeForce GTX 675M
+
+5Samsung ATIV One 7
+
+Type: All-in-one, Touchscreen All-In-One
+Processor Family: Intel Core i5
+Processor Name: Intel Core i5-3470T
+Processor Speed: 2.9 GHz
+RAM: 6 GB
+Storage Capacity (as Tested): 1000 GB
+Storage Type: HDD
+Graphics Card: Intel HD Graphics 2500
+Primary Optical Drive: Dual-Layer DVD+/-RW
+Monitor Type: LCD Widescreen
+Touchscreen: Yes
+Screen Size: 23.6 inches
+Operating System: Microsoft Windows 8
+Native Resolution: 1920 x 1080
+
+6Lenovo ThinkCentre Edge 92z
+
+Type: Business, All-in-one, Touchscreen All-In-One
+Processor Family: Intel Core i5
+Processor Name: Intel Core i5-3470
+Processor Speed: 2.9 GHz
+RAM: 4 GB
+Storage Capacity (as Tested): 500 GB
+Storage Type: HDD
+Graphics Card: AMD Radeon HD 7650A
+Primary Optical Drive: Dual-Layer DVD+/-RW
+Monitor Type: LCD Widescreen
+Touchscreen: Yes
+Screen Size: 21.5 inches
+Operating System: Microsoft Windows 8 Professional
+Native Resolution: 1920 x 1080
+
+7HP Z420
+
+Type: Workstation, Business, Small Business
+Processor Family: Intel Xeon
+Processor Name: Intel Xeon E5-1620
+Processor Speed: 3.6 GHz
+RAM: 16 GB
+Storage Capacity (as Tested): 1250 GB
+Storage Type: HDD, SSD
+Primary Optical Drive: Dual-Layer DVD+/-RW
+Operating System: Microsoft Windows 7 Professional
+
+8Falcon Northwest Fragbox
+
+Type: Gaming
+Processor Family: Intel Core i7
+Processor Name: Intel Core i7-4770K
+Processor Speed: 3.5 GHz
+RAM: 32 GB
+Storage Capacity (as Tested): 1920 GB
+Storage Type: SSD
+Graphics Card: Nvidia GeForce GTX 780
+Primary Optical Drive: Blu-Ray Disc
+Monitor Type: None
+Operating System: Microsoft Windows 8
+
+9Apple iMac 27-Inch
+
+Type: Gaming, Mainstream, Multimedia, All-in-one
+Processor Family: Intel Core i7
+Processor Speed: 3.4 GHz
+RAM: 8 GB
+Storage Capacity (as Tested): 1128 GB
+Graphics Card: Nvidia GeForce GTX 680X
+Primary Optical Drive: External
+Monitor Type: LCD Widescreen
+Screen Size: 27 inches
+Operating System: Mac OS X 10.8
+Native Resolution: 2560 x 1440
+
+10 - Gateway DX4870-UB2B
+
+Type: Mainstream, Value
+Processor Family: Intel Core i3
+Processor Name: Intel Core i3-3240
+Processor Speed: 3.4 GHz
+RAM: 6 GB
+Storage Capacity (as Tested): 1000 GB
+Storage Type: HDD
+Graphics Card: Intel HD Graphics 2500
+Primary Optical Drive: Dual-Layer DVD+/-RW
+Operating System: Microsoft Windows 8
+

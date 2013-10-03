@@ -1,0 +1,76 @@
+1. Xbox 360
+Fabricante: MicrosoftGeneración: Séptima generaciónCPU: 3.2 GHz (PowerPC) Tri-Core IBMXenon MEMORIA 512 MB de RAMDDR3 a 500 MHzGPU: ATI XenosSoporte: HD DVD, DVD-DL, Disco compacto.Almacenamiento: Disco duro extraíble de 20, 60, 120, 250 o 320 GB, tarjetas de memoria de 64, 256 y 512 MB (descontinuadas)
+Formato de imagen:	1080pCompatible con: Xbox con 478 videojuegos
+Servicio en línea: Xbox Live
+
+2.Playstatio 3
+Generación: Séptima generaciónCPU: Cell Broadband Engine 3,2 GHz con 1PPE y 7 SPEs
+GPU: NVIDIA/SCEI RSX 550 MHzSoporte: CD, DVD, Blu-RayAlmacenamiento: Disco duro SATA 2,5" de
+(12 GB, 20 GB, 40 GB, 60 GB, 80 GB, 120 GB, 160 GB, 250 GB, 320 GB, 500 GB)
+Formato de imagen:	1080pControles: Sixaxis, DualShock 3, PlayStation MoveServicio en línea: PlayStation Network
+
+3.WII
+Fabricante: NintendoGeneración: Séptima generaciónCPU: IBM Broadway 729 MHz.GPU: ATI Hollywood 243 MHz.Soporte: Wii Optical Disc de 12 cm, Nintendo GameCube Game Disc de 8 cm.
+Almacenamiento: Memoria Flash de 512 MB, tarjetas SD y SDHC y tarjetas de memoria de Nintendo GameCube 
+Compatible con: GameCube.
+Servicio en línea: Conexión Wi-Fi de Nintendo, WiiConnect24
+
+4.Xbox one
+CPU: 8 núcleos 
+RAM: 8GB 
+Disco Duro: 500GB 
+Lectora: Blu-Ray 
+Entradas: HDMI y puertos USB 3.0 
+Kinect: Aumentó en 60% el campo de visión. Será capaz de detectar el ritmo cardíaco, el balance del peso en el cuerpo, la posición y la orientación.
+
+5.Playstation 4
+Generación: Octava generaciónCPU: AMD x86-64 Jaguar Octa-Core (8 núcleos) 2.75Ghz
+GPU: AMD Radeon personalizada 1152 shaders @ 800 MHz (1,84 TFLOP/s)
+Soporte: DVD, Blu-RayAlmacenamiento: Disco duro 500 GB (reemplazable)
+Formato de imagen:	1080p, 4KControles: DualShock 4, PlayStation Move, PlayStation Vita
+
+6.WII U 
+Generación: Octava generaciónCPU: IBM Power Espresso a 1.24 GHzGPU: AMD Radeon E6760 de la serie6xxxx Latte a 550 MHz
+Soporte: Wii U Optical Disc5, Wii optical discAlmacenamiento: Memoria flash (8-32 GB) interna, tarjetas SD, tarjetas SDHC, USBControles: Wii U GamePad, Wii U Pro Controller, Wii Remote, Nunchuk, Wii Balance, Board, Wii Classic ControllerCompatible con: Accesorios para Wii U, Retrocompatible con los accesorios de Wii
+Servicio en línea: Nintendo Network7, Miiverse
+
+7.Nvidia SHIELD
+Processor:	NVIDIA Tegra 4 Quad Core Mobile Processor with 2GB RAM
+Display: 5 inch 1280x720 (294 ppi) Multi-Touch Retinal Quality Display
+Audio: Integrated Stereo Speakers with Built-in Microphone
+Storage: 16GB Flash Memory
+Wireless: 802.11n 2x2 Mimo Wi-Fi
+Bluetooth 3.0
+GPS
+Connectivity: Mini-HDMI output
+Micro-USB 2.0
+MicroSD storage slot
+3.5mm stereo headphone jack with microphone support
+Motion Sensors: 3 Axis Gyro
+3 Axis Accelerometer
+Input controls: Dual analog joysticks
+D-pad
+Left/right analog triggers
+Left/right bumpers
+A/B/X/Y buttons
+Volume control
+Android Home and Back buttons
+Start button
+NVIDIA power/multi-function button
+Battery	28.8 Watt Hours
+Weight & Size	579 grams
+158mm (w) x 135mm (D) x 57mm (H)
+Operating System	Android Jelly Bean OS
+Software	Google Play
+TegraZone
+Sonic 4 Episode II THD
+Expendable: Rearmed
+Hulu Plus
+TwitchTV
+
+8.Nintendo 3DS
+Fabricante: NintendoGeneración: Octava generaciónCPU: ARM11 Dual-Core a 1Ghz
+GPU: DMP Pica2005 6Soport: Tarjetas de juego de Nintendo 3DS (hasta 8 GB) y Nintendo DS (Hasta 512 MB).
+Almacenamiento:  2 GB de memoria interna, y hasta 32 GB con Tarjeta de Memoria
+Servicio en línea: Nintendo Network
+
